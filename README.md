@@ -1,6 +1,6 @@
 # first
 
-A new Flutter application.
+COVID 19 UI
 
 ## Getting Started
 
