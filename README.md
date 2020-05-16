@@ -1,7 +1,7 @@
 # first
 
 COVID 19 UI
-![](images/covid19.png)
+!["COVID19 UI EXAMPLE"](images/covid19.PNG)
 
 
 ## Getting Started
