@@ -16,5 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-!["SCREEN1"](images/screen1.PNG)
-!["SCREEN2"](images/screen2.PNG)
+!["SCREEN1"](images/screen2.jpeg)
+!["SCREEN2"](images/screen1.jpeg)
+
